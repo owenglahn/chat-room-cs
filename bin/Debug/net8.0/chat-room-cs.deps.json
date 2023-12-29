@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "chat-room-cs/1.0.0": {
+        "runtime": {
+          "chat-room-cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chat-room-cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

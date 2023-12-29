@@ -1,0 +1,14 @@
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/bin/Debug/net8.0/chat-room-cs
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/bin/Debug/net8.0/chat-room-cs.deps.json
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/bin/Debug/net8.0/chat-room-cs.runtimeconfig.json
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/bin/Debug/net8.0/chat-room-cs.dll
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/bin/Debug/net8.0/chat-room-cs.pdb
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/chat-room-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/chat-room-cs.AssemblyInfoInputs.cache
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/chat-room-cs.AssemblyInfo.cs
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/chat-room-cs.csproj.CoreCompileInputs.cache
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/chat-room-cs.dll
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/refint/chat-room-cs.dll
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/chat-room-cs.pdb
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/chat-room-cs.genruntimeconfig.cache
+/Users/owenglahn/PersonalProjects/chat-room-cs/chat-room-cs/obj/Debug/net8.0/ref/chat-room-cs.dll
